@@ -1,16 +1,15 @@
 # Re-Vanced
 
 Google colab Re-Vanced Builder.<br>
-## 5 simple steps that's it.
+## 4 simple steps that's it.
 ⭐ The project if it works. 
    Follow me for updates.
 
-1. Open Google [Colab](https://colab.research.google.com/)
-2. Open the `.ipynb` in Colab.
-3. Upload and copy id for `youtube.apk` from drive.
+1. Open `.ipynb` in Google [Colab](https://colab.research.google.com/github/Jarvis-Ank/Re-Vanced/blob/main/Re-Vanced.ipynb)
+2. Upload and copy id for `youtube.apk` from drive.
     * Run the script, more info there.
-4. Wait for the script to build, once you start it. 
-5. Download your Revanced..!
+3. Wait for the script to build, once you start it. 
+4. Download your Revanced..!
 
 <hr>
 
