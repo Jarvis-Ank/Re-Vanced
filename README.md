@@ -1,9 +1,17 @@
 # Re-Vanced
 
 Google colab Re-Vanced Builder.<br>
+# Contributors
+
+<a href="https://github.com/Jarvis-Ank/Re-Vanced/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Jarvis-Ank/Re-Vanced"/>
+</a>
+
 ## 4 simple steps that's it.
 ⭐ The project if it works. 
    Follow me for updates.
+
+<hr>
 
 1. Open `.ipynb` in Google [Colab](https://colab.research.google.com/github/Jarvis-Ank/Re-Vanced/blob/main/Re-Vanced.ipynb)
 2. Upload and copy id for `youtube.apk` from drive.
