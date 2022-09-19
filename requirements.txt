@@ -8,3 +8,4 @@ selenium
 undetected_chromedriver
 pyvirtualdisplay
 beautifulsoup4
+google
