@@ -1,11 +1,26 @@
 > ⚠️ **Repository Archived**
 > 
-> This repository was created before ReVanced Manager was available, when building ReVanced APKs required a PC and manual setup. It provided a Google Colab–based script to automate the build process, allowing users to generate patched APKs without a local Android environment.
 > # Why this repository is archived
+>
+>This repository was created before ReVanced Manager was available, when building ReVanced APKs required a PC and manual setup. It provided a Google Colab–based script to automate the build process, allowing users to generate patched APKs without a local Android environment.
 > 
 > The official ReVanced Manager now offers a simpler, more stable, and officially supported way to build and manage ReVanced apps.
 > Frequent changes in patches and build requirements make script-based automation hard to maintain.
 > Google Colab limitations reduce long-term reliability for this use case.
+
+> [!WARNING]
+> This project is no longer maintained and is archived for reference only.
+> 
+> ### 🔗 Official ReVanced Resources
+>
+> **ReVanced GitHub:** [https://github.com/revanced](https://github.com/revanced)
+> 
+> **ReVanced Manager:** [https://github.com/revanced/revanced-manager](https://github.com/revanced/revanced-manager)
+> 
+> **Official Website:** [https://revanced.app](https://revanced.app)
+> 
+> Thanks to everyone who used or starred this repo 🙌
+
 
 # Re-Vanced
 
