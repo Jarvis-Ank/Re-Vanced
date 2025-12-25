@@ -1,3 +1,12 @@
+> ⚠️ **Repository Archived**
+> 
+> This repository was created before ReVanced Manager was available, when building ReVanced APKs required a PC and manual setup. It provided a Google Colab–based script to automate the build process, allowing users to generate patched APKs without a local Android environment.
+> # Why this repository is archived
+> 
+> The official ReVanced Manager now offers a simpler, more stable, and officially supported way to build and manage ReVanced apps.
+> Frequent changes in patches and build requirements make script-based automation hard to maintain.
+> Google Colab limitations reduce long-term reliability for this use case.
+
 # Re-Vanced
 
 Google colab Re-Vanced Builder.<br>
